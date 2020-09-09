@@ -13,3 +13,16 @@ body {
     overflow:auto;
     border: 4px solid black;
 }
+#textBox {
+    width: 100%;
+    color: black;
+}
+#images {
+    width: 100%;
+    padding: 15px;
+}
+#image img {
+    width: 33%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
